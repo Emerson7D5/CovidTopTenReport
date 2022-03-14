@@ -4,3 +4,9 @@ C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\
 C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
 C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.dll
 C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\EA\Proyectos\testChallenger\covid19\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\EA\Proyectos\testChallenger\covid19\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\EA\Proyectos\testChallenger\covid19\EntitiesLayer\obj\Debug\EntitiesLayer.csprojAssemblyReference.cache
+C:\EA\Proyectos\testChallenger\covid19\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\EA\Proyectos\testChallenger\covid19\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\EA\Proyectos\testChallenger\covid19\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

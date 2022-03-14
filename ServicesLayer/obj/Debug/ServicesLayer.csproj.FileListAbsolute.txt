@@ -4,3 +4,9 @@ C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\
 C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.csproj.CoreCompileInputs.cache
 C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.dll
 C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.pdb
+C:\EA\Proyectos\testChallenger\covid19\ServicesLayer\bin\Debug\ServicesLayer.dll
+C:\EA\Proyectos\testChallenger\covid19\ServicesLayer\bin\Debug\ServicesLayer.pdb
+C:\EA\Proyectos\testChallenger\covid19\ServicesLayer\obj\Debug\ServicesLayer.csprojAssemblyReference.cache
+C:\EA\Proyectos\testChallenger\covid19\ServicesLayer\obj\Debug\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\EA\Proyectos\testChallenger\covid19\ServicesLayer\obj\Debug\ServicesLayer.dll
+C:\EA\Proyectos\testChallenger\covid19\ServicesLayer\obj\Debug\ServicesLayer.pdb

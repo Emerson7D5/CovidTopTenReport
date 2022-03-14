@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidTopTenReport", "CovidTopTenReport\CovidTopTenReport.csproj", "{BB691430-861A-440C-9D6E-CD011BCBF27B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesLayer", "ServicesLayer\ServicesLayer.csproj", "{55DAB3CD-657B-4EC5-AF67-1A790D8BD440}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLayer", "DomainLayer\DomainLayer.csproj", "{9FB63497-3A2D-4414-833F-6A89C1B4BBAC}"
@@ -13,16 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesLayer", "EntitiesLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidTopTenReportUnitTest", "CovidTopTenReportUnitTest\CovidTopTenReportUnitTest.csproj", "{49F00FAB-C561-49C8-B364-5632E65EB877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidTopTenReport", "CovidTopTenReportApp\CovidTopTenReport.csproj", "{BB691430-861A-440C-9D6E-CD011BCBF27B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{55DAB3CD-657B-4EC5-AF67-1A790D8BD440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{55DAB3CD-657B-4EC5-AF67-1A790D8BD440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55DAB3CD-657B-4EC5-AF67-1A790D8BD440}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{49F00FAB-C561-49C8-B364-5632E65EB877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49F00FAB-C561-49C8-B364-5632E65EB877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49F00FAB-C561-49C8-B364-5632E65EB877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB691430-861A-440C-9D6E-CD011BCBF27B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
