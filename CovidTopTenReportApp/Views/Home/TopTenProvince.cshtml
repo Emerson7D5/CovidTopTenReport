@@ -1,0 +1,66 @@
+﻿@model IEnumerable<EntitiesLayer.totalRegions>
+
+@{
+    ViewBag.Title = "TOP 10 COVID CASES";
+}
+<br />
+<h2>@ViewBag.Title.</h2>
+<br />
+<hr />
+<form method="post">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="btn-group btn-group-justified" role="group">
+                <div class="btn-group" role="group">
+                    @Html.DropDownList("RegionSelected", (IEnumerable<SelectListItem>)ViewBag.TopByRegionsList, new { @class = "btn btn-default dropdown-toggle" })
+                </div>
+                <div class="btn-group" role="group">
+                    <input type="submit" name="response" value="Report" formaction=@Url.Action("TopTenProvince") formmethod="post" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+            <div class="btn-group btn-group-justified" role="group">
+                <div class="btn-group" role="group">
+                    <input type="submit" name="response" value="XML" formaction=@Url.Action("xml") formmethod="post" class="btn btn-primary" />
+                </div>
+                <div class="btn-group" role="group">
+                    <input type="submit" name="response" value="JSON" formaction=@Url.Action("json") formmethod="post" class="btn btn-primary" />
+                </div>
+                <div class="btn-group" role="group">
+                    <input type="submit" name="response" value="CSV" formaction=@Url.Action("csv") formmethod="post" class="btn btn-primary" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+</form>
+<div class="row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    PROVINCE
+                </th>
+                <th>
+                    CASES
+                </th>
+                <th>
+                    DEATHS
+                </th>
+            </tr>
+        </thead>
+        <tbody class="table-striped">
+            @foreach (var region in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => region.province) </td>
+                    <td>@Html.DisplayFor(modelItem => region.confirmed) </td>
+                    <td>@Html.DisplayFor(modelItem => region.deaths) </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
