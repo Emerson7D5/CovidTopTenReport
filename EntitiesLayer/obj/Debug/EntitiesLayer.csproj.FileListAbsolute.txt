@@ -1,0 +1,6 @@
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.csprojAssemblyReference.cache
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

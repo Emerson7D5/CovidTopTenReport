@@ -1,0 +1,13 @@
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\obj\Debug\DomainLayer.csprojAssemblyReference.cache
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\obj\Debug\DomainLayer.csproj.CoreCompileInputs.cache
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\DomainLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\EntitiesLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\Newtonsoft.Json.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\ServicesLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\EntitiesLayer.pdb
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\ServicesLayer.pdb
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\bin\Debug\Newtonsoft.Json.xml
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\obj\Debug\DomainLayer.csproj.CopyComplete
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\obj\Debug\DomainLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\DomainLayer\obj\Debug\DomainLayer.pdb

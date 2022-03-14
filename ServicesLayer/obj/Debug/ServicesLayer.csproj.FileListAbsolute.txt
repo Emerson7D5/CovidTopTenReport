@@ -1,0 +1,6 @@
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\bin\Debug\ServicesLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\bin\Debug\ServicesLayer.pdb
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.csprojAssemblyReference.cache
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.dll
+C:\EA\Proyectos\challengers\challengerSaongroup\CovidTopTenReport\ServicesLayer\obj\Debug\ServicesLayer.pdb
